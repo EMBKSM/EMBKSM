@@ -42,3 +42,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMBKSM)](https://github.com/EMBKSM/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMBKSM&layout=compact)
