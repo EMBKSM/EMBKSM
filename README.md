@@ -42,4 +42,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMBKSM&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyksm)](https://solved.ac/pyksm/)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMBKSM&layout=compact)
