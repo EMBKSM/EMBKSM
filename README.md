@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=C4C9F1&height=300&section=header&text=EMBKSM%20&fontSize=90&animation=twinkling&fontColor=E3B079)
-
+ //후에 수정
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E3B079&center=true&vCenter=true&width=435&lines=Aspiring_embedded_system_developer)](https://git.io/typing-svg)
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
