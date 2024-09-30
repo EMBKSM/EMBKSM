@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=C4C9F1&height=300&section=header&text=EMBKSM%20&fontSize=90&animation=twinkling&fontColor=E3B079)
- //후에 수정
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E3B079&center=true&vCenter=true&width=435&lines=Aspiring_embedded_system_developer)](https://git.io/typing-svg)
+
+<br>
+
+[![EMBKSM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EMBKSM&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
+
+
+
+<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -40,7 +49,5 @@
 
 <br>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMBKSM&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMBKSM&layout=compact)
