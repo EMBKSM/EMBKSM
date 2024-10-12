@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/UART-00878F?style=for-the-badge&logo=UART&logoColor=white">
 </div>
 
 <div align="center">
