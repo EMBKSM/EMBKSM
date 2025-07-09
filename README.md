@@ -14,12 +14,16 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white">
+  <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/electricity-1269D3?style=for-the-badge&logo=stackblitz&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/Esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 </div>
 
 <br>
@@ -31,8 +35,8 @@
   <img src="https://img.shields.io/badge/RDworks-000000?style=for-the-badge&logo=RDworks&logoColor=white" />&nbsp
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
@@ -42,7 +46,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/algorithms-00BCB4.svg?style=for-the-badge&logo=thealgorithms&logoColor=white" />&nbsp
-
+  <img src="https://img.shields.io/badge/math-00BCB4.svg?style=for-the-badge&logo=none&logoColor=yellow" />&nbsp
 </div>
 
 <br>
