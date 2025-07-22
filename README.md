@@ -16,11 +16,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/assemblyscript-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white">
   <img src="https://img.shields.io/badge/electricity-1269D3?style=for-the-badge&logo=stackblitz&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
   <img src="https://img.shields.io/badge/Esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
