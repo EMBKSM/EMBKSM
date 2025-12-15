@@ -100,6 +100,9 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=embksm)](https://solved.ac/embksm/)
-
+<div aline=senter>
+  <img src="https://github-readme-stats.vercel.app/api?username=EMBKSM&show_icons=true&theme=ambient_gradient">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMBKSM&layout=compact" height=195>
+</div>
 
 [![EMBKSM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EMBKSM&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
