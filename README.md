@@ -68,13 +68,6 @@
   - **Pipeline Architecture:** UART(Stream) ↔ AES(Burst) ↔ QPSK(Stream) 간 속도 차이를 해결하는 3-Stage 파이프라인 구축
   - **CDC & Flow Control:** Async FIFO 및 Ready/Valid Handshake 프로토콜 적용으로 데이터 유실 원천 차단
 
-### AXI-Stream IP: 고속 이미지 프로세싱 코어 설계
-> **Role:** Solo Developer
-- **Overview:** Zynq MPSoC 환경에서 실시간 이미지 데이터 처리를 위한 병렬 파이프라인 IP 코어 설계
-- **Key Tech:**
-  - **Protocol:** 고속 실시간 입출력을 위한 AXI-Stream 마스터/슬레이브 로직 구현 및 백프레셔(Back-pressure) FSM 제어
-  - **Verification:** SystemVerilog SVA 및 rand 키워드를 활용한 타이밍 모니터링 및 엣지 케이스 검증
-
 ### OSJ: 범용 IoT 세탁기 모니터링 시스템 아키텍처 리팩토링
 > **Role:** Embedded Firmware Developer
 - **Overview:** 1600줄 이상의 스파게티 레거시 코드를 전면 재설계하여 확장 가능한 모듈형 펌웨어로 구조화
